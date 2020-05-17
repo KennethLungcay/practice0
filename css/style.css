@@ -2,7 +2,7 @@
 			color: red;
 
 		}
-		div{
+		#box{
 			background-color: teal;
 			width: 500px;
 			height: 400px;
@@ -24,4 +24,19 @@
 		}
 		th{
 			background-color: lightgray;
+		}
+
+		#Top{
+			font-size: 38px;
+		}
+
+		#Middle{
+			font-size: 30px;
+		}
+
+		#Bottom{
+			font-size: 26px;
+		}
+		.name{
+			font-weight: bold;
 		}
